@@ -1,0 +1,2 @@
+#app{display:grid;grid-template-columns:150px 100px;border:1px solid #000;width:170px;border-radius:5px}.numbers{display:grid;grid-template-columns:49px 49px 49px 49px;grid-template-rows:49px 49px 49px 49px;grid-gap:2px;padding:10px}.operator{grid-template-columns:29px 29px 29px 29px 29px;grid-template-rows:29px 29px 29px 29px}button{cursor:pointer;border:none;font-weight:700;font-size:1.2rem;border-radius:50%}.equal{background:#00f;color:#fff}
+/*# sourceMappingURL=/csb-2hs5q/styles.d207d267.css.map */
